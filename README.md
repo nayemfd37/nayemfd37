@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://dev.to/muktadirnayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muktadirnayem" height="30" width="40" /></a>
-<a href="https://twitter.com/muktadir_nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muktadir_nayem" height="30" width="40" /></a>
+<a href="https://x.com/muktadir_nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muktadir_nayem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-muktadir-nayem-866388201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-muktadir-nayem-866388201" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20615481/nayem37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/20615481/nayem37" height="30" width="40" /></a>
 <a href="https://fb.com/mdmuktadir.nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmuktadir.nayeem" height="30" width="40" /></a>
